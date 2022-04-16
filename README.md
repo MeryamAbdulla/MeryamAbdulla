@@ -1,4 +1,4 @@
-<img align="center" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500" height="400">
+<img align="center" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="800" height="400">
 <h1 align="center">Hi 👋, I'm Meryam Abdulla</h1>
 <h3 align="center">A passionate Front-end developer from Turkey</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/0*yBvA5CnEX3Sd4aod.gif" >
