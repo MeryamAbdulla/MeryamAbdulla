@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meryamabdulla&label=Profile%20views&color=0e75b6&style=flat" alt="meryamabdulla" /> </p>
 
-- 🔭 I’m currently working on **Array Tech**
+- 🔭 i'm looking for a job right now
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning **Python/Selenium**
 
-- 💬 Ask me about **React Js, Next Js**
+- 💬 Ask me about **Front End Development**
 
 - 📫 How to reach me **meryam.abdulla@gmail.com**
 
